@@ -1,0 +1,4 @@
+# Build artifacts
+/sprint9-final
+*.test
+*.out
